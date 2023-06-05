@@ -3,7 +3,6 @@
 using System;
 //criando classe
 class Principal{
-
     // criando metodo 
     static void Main(){
         //exibindo hello word!

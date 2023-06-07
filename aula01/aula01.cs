@@ -6,7 +6,7 @@ class Principal{
     // criando metodo 
     static void Main(){
         //exibindo hello word!
-        Console.WriteLine("Hello Word!!");
+        Console.WriteLine("Hello World!!");
     }
 }
 /// OBS: Para abrir pasta no terminal eu usei o CD seguido do nome da pasta ex: cdPasta.......

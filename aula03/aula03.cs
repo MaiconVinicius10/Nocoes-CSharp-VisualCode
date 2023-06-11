@@ -23,11 +23,11 @@ class Aula03{
 
         // como declarar multi variaveis
         int num1,num2,res;
-
+        // adicionando valor nas variaveis e calculando
         num1=10;
         num2=10;
         res=num1*num2;
-
+        //exbindo resultado no console
         Console.WriteLine("A multiplicação: "+num1 + " com "+num2+" é: "+res);
 
     }

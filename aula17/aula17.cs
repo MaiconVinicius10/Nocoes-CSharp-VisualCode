@@ -16,13 +16,13 @@ class Aula17{
         n[3]=44;
         n[4]=55;
 
-        Console.WriteLine(n);
+        Console.WriteLine(n[1]);
 
         //exemplo2
         //criando array do tipo inteiro
         int[] n2= new int[3]{55,77,99};
 
-        Console.WriteLine(n2);
+        Console.WriteLine(n2[2]);
 
 
     }

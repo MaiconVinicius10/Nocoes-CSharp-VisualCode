@@ -9,7 +9,7 @@ class Aula21{
         string senha="123";
         string senhauser;
         int tentativas=0;
-        //do while eu garanto que vai ser executado pelo menos uma vez
+        //do while eu garanto que vai ser executado pelo menos uma vez//
         do{ 
             Console.Clear();
             Console.WriteLine("Digite sua senha:");

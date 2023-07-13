@@ -1,9 +1,0 @@
-// Métodos para Arrays
-using System;
-//criando classe 
-class Aula23{
-    //criando metodo principal
-    static void Main(){
-        //criando
-    }
-}

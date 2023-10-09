@@ -1,21 +1,25 @@
-﻿//aprendendo criar no terminal - cdaula02 , dps escreve : dotnet new console
-
-//usando biblioteca do sistema
+﻿//aprendendo a criar programa no padrão dotnet 
+// e utilizar o args
+// 1-)comando no terminal: dotnet new console
+//usando a biblioteca do sistema
 using System;
-//namespace forma de organização
-namespace Aula02{
-    // criando classe program
-    class Program{
-        // criando meu metodo menu
-        static void Main(string[]args){
-            //exibindo ola mundo
-            Console.WriteLine("Hello World");
-            // verificando se foi digitado algo antes da execução
-            if(args.GetLength(0)>0){
-                //exibindo
-                Console.WriteLine(args.GetValue(0));
+//criando namespace de organização
+namespace Aula02
+{
+    //crriando classe
+    class Program
+    {
+        //criando metodo principall
+        static void Main(string[] args)
+        {
+            //exibindo olá mundo
+            Console.WriteLine("Hello Word!!!");
+            //se digitar algo entra no if
+            if (args.GetLength(0) > 0)
+            {   
+                Console.Write("Você digitou: {0}",args.GetValue(0));
             }
-            
+
         }
     }
 }

@@ -5,7 +5,7 @@ using System;
 class Principal{
     // criando metodo 
     static void Main(){
-        //exibindo hello word!
+        //exibindo hello word!!
         Console.WriteLine("Hello World!!");
     }
 }

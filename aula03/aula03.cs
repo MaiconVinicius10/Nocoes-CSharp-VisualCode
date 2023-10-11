@@ -6,7 +6,7 @@ class Aula03{
     // criando meu metodo principal
     static void Main(){
         // variaveis
-        // inteiro de 8 bis
+        // inteiro de 8 bits
         byte n1=10; // 0 e 255
         // inteiro
         int num=0;

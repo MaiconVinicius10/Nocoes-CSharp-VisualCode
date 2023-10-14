@@ -1,7 +1,6 @@
 // enumeradores
 //usando biblioteca do sistema 
 using System;
-
 //criando enumeradores
 enum DiasSemana{Domingo,Segunda,Terça,Quarta,Quinta,Sexta,Sabado};
 //criando classe
